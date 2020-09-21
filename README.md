@@ -3,8 +3,8 @@ https://gcalendar.vladozver.com/
 
 ### Fake gmail account
 ```bash
-user: doe303790<br/>
-pass: qwerty666_<br/>
+user: doe303790
+pass: qwerty666_
 ```
 
 ### Server
