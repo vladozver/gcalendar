@@ -27,8 +27,8 @@ Dependencies I use are:
 Server got 3 routes:
 ```bash
 - GET  /          - running server message
-- GET  /gcalendar - getting all reminders that are active (not older then )
-- POST /gcalendar - for saving 
+- GET  /gcalendar - getting reminders
+- POST /gcalendar - saving reminder
 ```
 
 When getting all reminders the result is list with max 10 active reminders, order by start time. Activ reminders are reminders that starts after current date time.
